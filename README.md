@@ -1,7 +1,7 @@
 # ScaleX-AI
 Site officiel de ScaleX-AI — *Engineering intelligence. Scaling innovation.*
 
-- Site (GitHub Pages, après activation) : https://barackndenga.github.io/Site/
-- Dépôt : https://github.com/BarackNdenga/Site
+- Site (GitHub Pages, après activation) : https://barackndenga.github.io/ScaleX-AI/
+- Dépôt : https://github.com/BarackNdenga/ScaleX-AI
 
 La page est une landing page statique responsive avec animations, présentation des capacités, section Leadership et liens professionnels du fondateur Barack Ndenga.
